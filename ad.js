@@ -28,7 +28,7 @@ function is_mobile() {
 
 //右下角0.0022广告,300*250
 
-/*document.write('<script src="//js.penxiangge.com/inc/?s=69249"></script>');*/
+document.write('<script src="//js.penxiangge.com/inc/?s=69249"></script>');
 
 
 function ad_top(){
